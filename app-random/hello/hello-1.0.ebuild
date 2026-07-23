@@ -1,7 +1,7 @@
 EAPI=8
 
 DESCRIPTION="A simple hello world program"
-HOMEPAGE="https://github.com/yourname/hello"
+HOMEPAGE="https://github.com/macwithgentoo"
 SRC_URI=""
 
 LICENSE="MIT"
